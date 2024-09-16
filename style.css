@@ -14,8 +14,7 @@ body {
 /* Welcome Section */
 
 #welcome_section {
-    padding-top: 4px;
-    padding-bottom: 4px;
+    padding: 5rem;
     margin: 2px;
 }
 
@@ -34,7 +33,7 @@ body {
 
 .encouragement_section_div{
     color: yellow;
-    font-size: 30px;
+    font-size: 33px;
     text-align: center;
     padding: 5rem;
     margin: 4px;
