@@ -26,10 +26,18 @@ body {
 
 /*Encouragement Section*/
 
-#encouragement_section{
+#encouragement_section {
     padding-top: 4px;
     padding-bottom: 4px;
     margin: 2px;
+}
+
+.encouragement_section_div{
+    color: yellow;
+    font-size: 30px;
+    text-align: center;
+    padding: 5rem;
+    margin: 4px;
 }
 
 .button {
